@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    body {
+            background-image: url('static/Image/Epilepsy_pic2.jpg');
+            background-size: cover;
+             }
+    .advice {
+            margin: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background-color: rgba(255, 255, 255, 0.7);
+            margin-right: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="advice">
+        {% if prediction != 0 %}
+            <h1 style="color: red;">Affected</h1>
+            <h2 style="color: blue;">Precautions to be taken</h2>
+            <ul>
+
+                <li>Take Medication Regularly: Stick to your prescribed medication schedule.</li>
+                <li>Get Enough Sleep: Aim for 7-9 hours of quality sleep each night.</li>
+                <li>Manage Stress: Practice stress-reduction techniques like deep breathing or meditation.</li>
+                <li>Avoid Triggers: Identify and avoid personal triggers, like lack of sleep or stress.</li>
+                <li>Limit Alcohol and Drugs: These substances can increase the risk.</li>
+                <li>Safety First: During a situation, avoid dangerous activities and ensure someone knows how to provide first aid.</li>
+                <li>Medical Alert: Consider wearing a medical alert bracelet to indicate your condition.</li>
+                <li>Inform Others: Let friends, family, and coworkers know about your condition.</li>
+                <li>Consult on Driving: Follow local regulations regarding your condition and driving.</li>
+                <li>Dietary Considerations: Discuss dietary options with your healthcare provider.</li>
+            </ul>
+        {% else %}
+            <h2 style="color: green;">Congratulations, you are not Affected</h2>
+        {% endif %}
+    </div>
+</body>
+</html>
