@@ -2,7 +2,6 @@ Flask
 Gunicorn
 numpy
 pandas
-python-dateutil
 six
 scikit-learn
 scipy
