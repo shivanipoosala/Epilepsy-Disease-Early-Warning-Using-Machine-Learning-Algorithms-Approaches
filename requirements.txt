@@ -1,2 +1,16 @@
 Flask
 Gunicorn
+numpy
+pandas
+python-dateutil
+pytz
+six
+scikit-learn
+seaborn
+matplotlib
+scipy
+xgboost
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
