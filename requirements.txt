@@ -1,9 +1,3 @@
 Flask
 Gunicorn
-numpy
-pandas
-scikit-learn
-itsdangerous
-Jinja2
-MarkupSafe
-Werkzeug
+
