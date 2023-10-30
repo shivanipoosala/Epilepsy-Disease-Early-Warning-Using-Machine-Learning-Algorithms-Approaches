@@ -2,9 +2,7 @@ Flask
 Gunicorn
 numpy
 pandas
-six
 scikit-learn
-scipy
 itsdangerous
 Jinja2
 MarkupSafe
