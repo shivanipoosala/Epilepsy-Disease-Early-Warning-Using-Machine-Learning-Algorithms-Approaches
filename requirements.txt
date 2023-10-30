@@ -1,3 +1,6 @@
 Flask
-Gunicorn
-
+scikit-learn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
