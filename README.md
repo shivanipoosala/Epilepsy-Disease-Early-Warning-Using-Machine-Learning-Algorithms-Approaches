@@ -91,9 +91,9 @@ Evaluate the performance of the model using metrics such as accuracy, precision,
 9. Deploy the Model:
 Once satisfied with the model, deploy it in a suitable environment, considering the ethical and legal implications of handling medical data.
 
-# Results and Analysis
-![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/3ece1531-170d-4b32-8c21-57fbc0c1919c)
-![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/3a11ab32-a95e-46d1-8e1e-abca7458c661)
+# Results and Analysis<br>
+![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/3ece1531-170d-4b32-8c21-57fbc0c1919c)<br>
+![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/3a11ab32-a95e-46d1-8e1e-abca7458c661)<br>
 
 Random Forest has given us accuracy of 99.8% among all machine learning models.
 Random Forest is often a good choice for epilepsy prediction because it combines many decision trees, can handle messy data, and generalizes to new cases well. It's also helpful for identifying which factors are important in predicting epilepsy. However, its performance can vary based on the specific data and situation.
@@ -101,45 +101,47 @@ Random Forest is often a good choice for epilepsy prediction because it combines
 # Front End
 Case 1<br>
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/a798c925-a619-4c0e-9779-f654dd1eaf7c)<br>
-![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/46169cee-a08d-4c6b-ab27-f266d5ea3f12)
+![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/46169cee-a08d-4c6b-ab27-f266d5ea3f12)<br>
 
 Case 2<br>
 ![e5](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/c6fccd7d-f2f2-40ee-b867-71c5c6b31a89)<br>
-![e6](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/dbccd670-422e-4f96-b588-79ad06a00e75)
+![e6](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/dbccd670-422e-4f96-b588-79ad06a00e75)<br>
 
 
 # Future Scope
-Enhanced Predictive Models:
-Continuously refine and optimize machine learning models to improve prediction accuracy.Explore advanced deep learning architectures and ensemble methods for more robust and adaptable seizure prediction.
-Integration with Wearable Devices:
-Explore integration with wearable devices to enable continuous and unobtrusive monitoring of EEG signals Develop algorithms that can analyze data from various wearable to provide a comprehensive view of a person's health.
-Incorporation of Multi modal Data:
-Investigate the use of multi modal data, combining EEG signals with other physiological and behavioral data, to enhance prediction accuracy.Explore the integration of imaging data, genetic information, and patient-reported outcomes for a holistic approach.
-Real-time Feedback and Intervention:
-Implement real-time feedback mechanisms that not only provide warnings but also suggest personalized interventions.Explore the integration of closed-loop systems that can trigger responsive interventions, such as modularization or drug delivery.
-Long-term Monitoring and Data Analytics:
-Develop strategies for long-term monitoring, enabling the analysis of trends and changes in seizure patterns over extended periods.Implement advanced data analytics techniques, including anomaly detection and trend analysis, for more insightful information.Health Integration:Integrate the early warning system into health platforms to facilitate remote monitoring and consultations.Explore the potential for health interventions based on predictive analytics.
-Global Collaboration and Data Sharing:
-Encourage collaboration among researchers and institutions to share data and insights for a more comprehensive understanding of epilepsy.Establish standardized protocols for data sharing while addressing privacy and security concerns.
-Clinical Trials and Regulatory Approvals:
-Conduct rigorous clinical trials to validate the effectiveness and safety of the early warning system in real-world scenarios.Work towards obtaining regulatory approvals for clinical use, ensuring compliance with healthcare standards and regulations.
-Education and Awareness:
-Develop educational programs to raise awareness among healthcare professionals, individuals with epilepsy, and the general public about the benefits and limitations of early warning systems.Promote the responsible use of technology in healthcare to build trust and acceptance. The future scope for an Epilepsy Disease Early Warning System using machine learning algorithms is expansive, with the potential to significantly impact the field of epilepsy management and improve the quality of life for affected individuals. Continuous innovation, collaboration, and a patient-eccentric approach will be key drivers in realizing the full potential of such systems.
+Enhanced Predictive Models:<br>
+Continuously refine and optimize machine learning models to improve prediction accuracy.Explore advanced deep learning architectures and ensemble methods for more robust and adaptable seizure prediction.<br>
+Integration with Wearable Devices:<br>
+Explore integration with wearable devices to enable continuous and unobtrusive monitoring of EEG signals Develop algorithms that can analyze data from various wearable to provide a comprehensive view of a person's health.<br>
+Incorporation of Multi modal Data:<br>
+Investigate the use of multi modal data, combining EEG signals with other physiological and behavioral data, to enhance prediction accuracy.Explore the integration of imaging data, genetic information, and patient-reported outcomes for a holistic approach.<br>
+Real-time Feedback and Intervention:<br>
+Implement real-time feedback mechanisms that not only provide warnings but also suggest personalized interventions.Explore the integration of closed-loop systems that can trigger responsive interventions, such as modularization or drug delivery.<br>
+Long-term Monitoring and Data Analytics:<br>
+Develop strategies for long-term monitoring, enabling the analysis of trends and changes in seizure patterns over extended periods.Implement advanced data analytics techniques, including anomaly detection and trend analysis, for more insightful information.Health Integration:Integrate the early warning system into health platforms to facilitate remote monitoring and consultations.Explore the potential for health interventions based on predictive analytics.<br>
+Global Collaboration and Data Sharing:<br>
+Encourage collaboration among researchers and institutions to share data and insights for a more comprehensive understanding of epilepsy.Establish standardized protocols for data sharing while addressing privacy and security concerns.<br>
+Clinical Trials and Regulatory Approvals:<br>
+Conduct rigorous clinical trials to validate the effectiveness and safety of the early warning system in real-world scenarios.Work towards obtaining regulatory approvals for clinical use, ensuring compliance with healthcare standards and regulations.<br>
+Education and Awareness:<br>
+Develop educational programs to raise awareness among healthcare professionals, individuals with epilepsy, and the general public about the benefits and limitations of early warning systems.Promote the responsible use of technology in healthcare to build trust and acceptance. The future scope for an Epilepsy Disease Early Warning System using machine learning algorithms is expansive, with the potential to significantly impact the field of epilepsy management and improve the quality of life for affected individuals. Continuous innovation, collaboration, and a patient-eccentric approach will be key drivers in realizing the full potential of such systems.<br>
+
 # Conclusion
 It provides an analysis of the publications considered for this study on epileptic seizure detection strategies. In addition to the feature selection techniques use in the research, an examine of ML classifiers were carried out, and the data sources were explicitly specified in the article. Various publicly available datasets were viewed and studied, and the bulk of the papers chosen used these datasets in their research. Wavelet transform techniques were primarily used for feature extraction, and signal decomposition was used to forecast an epileptic seizure. Those classifiers investigated were Support vector machine, R_Forest , KNN, and Artificial Neural Networks, and they generated best conclusions when combined. Methods for extracting features. Furthermore, it is suggested that in the future, the most appropriate predictive models be used. In order to perform quality research, models should be evaluated, as well as a suggestion on the lack of tremors in child and the creation of a different data for that type of tremors.
 
 # References
-[1]https://www.hindawi.com/journals/cmmm/2017/9074759/ 
-[2]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481757/ 
+[1]https://www.hindawi.com/journals/cmmm/2017/9074759/ <br>
+[1]https://www.hindawi.com/journals/cmmm/2017/9074759/ <br>
+[2]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481757/ <br>
 [3]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9548615/ <br>
-[4]https://link.springer.com/article/10.1007/s40747-021-00627-z 
+[4]https://link.springer.com/article/10.1007/s40747-021-00627-z<br> 
 [5]https://www.mdpi.com/2076-3417/12/14/7251<br>
 [6] Ramgopal, S., Thome-Souza, S., Jackson, M., Kadish, N. E., Sánchez Fernández, I., Klehm, J., ... & Loddenkemper, T. (2014). Seizure detection, seizure prediction, and closed-loop warning systems in epilepsy. Epilepsy & Behavior, 37, 291-307.<br>
 [7] Subasi, A., & Kevric, J. (2007). EEG signal classification using PCA, ICA, LDA, and support vector machines. Expert Systems with Applications, 37(12), 8659-8666.<br>
 [8] Orosco, L., Dua, S., Davis, D., & Kulemzina, I. (2017). Predicting epileptic seizures from intracranial EEG with kernel SVMs. Biomedical Signal Processing and Control, 35, 50-56.<br>
 [9] Shoeb, A., Edwards, H., Connolly, J., Bourgeois, B., & Treves, S. T. (2004). Epileptic seizure prediction using hybrid feature selection over multiple intracranial EEG electrode contacts: a report of four patients. IEEE Transactions on Biomedical Engineering, 51(9), 1542-1552.<br>
 [10] Raza, H., Gul, S., Paul, M., & Hussain, M. (2017). Epileptic seizures prediction using machine learning techniques. International Journal of Advanced Computer Science and Applications, 8(4), 32-38.<br>
-[11] Mohd Ali, N., Besar, R., & Aziz, N. A. A. (2023). A case study of microarray breast cancer classification using machine learning algorithms with grid search cross validation. Bulletin of Electrical Engineering and Informatics, 12(2), 1047–1054. https://doi.org/10.11591/eei.v12i2.4838<br>
-[12] Taneja, A., Rajamani, S. K., Shekhawat, D., Chanti, Y., Joshi, K., & Garg, A. (2023). A technique based on ensemble machine learning for the analysis of electronic nose signals. 2023 3rd International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE),1733–1737. https://doi.org/10.1109/ICACITE57410.2023.10182894<br>
+[11] Mohd Ali, N., Besar, R., & Aziz, N. A. A. (2023). A case study of microarray breast cancer classification using machine learning algorithms with grid search cross validation. Bulletin of Electrical Engineering and Informatics, 12(2), 1047–1054.<br>
+[12] Taneja, A., Rajamani, S. K., Shekhawat, D., Chanti, Y., Joshi, K., & Garg, A. (2023). A technique based on ensemble machine learning for the analysis of electronic nose signals. 2023 3rd International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE),1733–1737. <br>
 
 
