@@ -31,6 +31,7 @@ Millions of individuals worldwide suffer with epilepsy, a neurological condition
 
 # Objective of Problem
 Seizure Prediction & Warning : ML algorithm can analyze data & other relevant information to predict when a seizure is likely to occur. This can provide individuals with epilepsy and their caregivers with a warning, allowing them to take precautionary measures, such as moving to a safer location or taking medication, to minimize the impact of the seizure.<br>
+
 Improved Quality of Life : Early prediction & warning can help individuals with epilepsy lead more normal lives. By avoiding seizures people with epilepsy can engage in daily activities,drive & work with greater independence.<br>
 
 Reduced Hospitalizations : Early prediction can lead to reduced hospital admissions due to epilepsy-related seizures, which can lower healthcare costs and improve the overall health of patients.<br>
@@ -93,6 +94,8 @@ Once satisfied with the model, deploy it in a suitable environment, considering 
 
 # Results and Analysis<br>
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/3ece1531-170d-4b32-8c21-57fbc0c1919c)<br>
+
+
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/3a11ab32-a95e-46d1-8e1e-abca7458c661)<br>
 
 Random Forest has given us accuracy of 99.8% among all machine learning models.
@@ -100,29 +103,40 @@ Random Forest is often a good choice for epilepsy prediction because it combines
 
 # Front End
 Case 1<br>
+
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/a798c925-a619-4c0e-9779-f654dd1eaf7c)<br>
+
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/46169cee-a08d-4c6b-ab27-f266d5ea3f12)<br>
 
 Case 2<br>
+
 ![e5](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/c6fccd7d-f2f2-40ee-b867-71c5c6b31a89)<br>
+
 ![e6](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/dbccd670-422e-4f96-b588-79ad06a00e75)<br>
 
 
 # Future Scope
 Enhanced Predictive Models:<br>
 Continuously refine and optimize machine learning models to improve prediction accuracy.Explore advanced deep learning architectures and ensemble methods for more robust and adaptable seizure prediction.<br>
+
 Integration with Wearable Devices:<br>
 Explore integration with wearable devices to enable continuous and unobtrusive monitoring of EEG signals Develop algorithms that can analyze data from various wearable to provide a comprehensive view of a person's health.<br>
+
 Incorporation of Multi modal Data:<br>
 Investigate the use of multi modal data, combining EEG signals with other physiological and behavioral data, to enhance prediction accuracy.Explore the integration of imaging data, genetic information, and patient-reported outcomes for a holistic approach.<br>
+
 Real-time Feedback and Intervention:<br>
 Implement real-time feedback mechanisms that not only provide warnings but also suggest personalized interventions.Explore the integration of closed-loop systems that can trigger responsive interventions, such as modularization or drug delivery.<br>
+
 Long-term Monitoring and Data Analytics:<br>
 Develop strategies for long-term monitoring, enabling the analysis of trends and changes in seizure patterns over extended periods.Implement advanced data analytics techniques, including anomaly detection and trend analysis, for more insightful information.Health Integration:Integrate the early warning system into health platforms to facilitate remote monitoring and consultations.Explore the potential for health interventions based on predictive analytics.<br>
+
 Global Collaboration and Data Sharing:<br>
 Encourage collaboration among researchers and institutions to share data and insights for a more comprehensive understanding of epilepsy.Establish standardized protocols for data sharing while addressing privacy and security concerns.<br>
+
 Clinical Trials and Regulatory Approvals:<br>
 Conduct rigorous clinical trials to validate the effectiveness and safety of the early warning system in real-world scenarios.Work towards obtaining regulatory approvals for clinical use, ensuring compliance with healthcare standards and regulations.<br>
+
 Education and Awareness:<br>
 Develop educational programs to raise awareness among healthcare professionals, individuals with epilepsy, and the general public about the benefits and limitations of early warning systems.Promote the responsible use of technology in healthcare to build trust and acceptance. The future scope for an Epilepsy Disease Early Warning System using machine learning algorithms is expansive, with the potential to significantly impact the field of epilepsy management and improve the quality of life for affected individuals. Continuous innovation, collaboration, and a patient-eccentric approach will be key drivers in realizing the full potential of such systems.<br>
 
