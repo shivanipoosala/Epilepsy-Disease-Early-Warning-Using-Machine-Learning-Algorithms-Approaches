@@ -6,7 +6,7 @@ Epilepsy may occur as a result of a genetic disorder or an acquired brain injury
 A seizure is a sudden surge of electrical activity in the brain. A seizure usually affects how a person appears or acts for a short time. Many different things can occur during a seizure. Whatever the brain and body can do normally can also occur during a seizure.
 
 # Table of Contents
-Abstract
+Abstract<br>
 Introduction
 Problem Statement
 Objective of Problem
