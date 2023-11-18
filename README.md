@@ -7,16 +7,16 @@ A seizure is a sudden surge of electrical activity in the brain. A seizure usual
 
 # Table of Contents
 Abstract<br>
-Introduction
-Problem Statement
-Objective of Problem
-Input Data/Tools Used
-Existing Methods Vs Proposed Methods
-Implementation
-Results and Analysis
-Future Scope
-Conclusion
-References
+Introduction<br>
+Problem Statement<br>
+Objective of Problem<br>
+Input Data/Tools Used<br>
+Existing Methods Vs Proposed Methods<br>
+Implementation<br>
+Results and Analysis<br>
+Future Scope<br>
+Conclusion<br>
+References<br>
 # Abstract
 Tremor is an neural illness identify by uncontrollable convulsions created by unusual electronic action in the cerebrum. Convulsions may occur in a variety of ways, including convulsions, loss of consciousness, and changing feelings and behaviors. Researchers have concentrated on algorithms that can help professionals detect and predict epileptic seizures. Machine learning plays a crucial role in this field, applying several algorithms for early Convulsion recognition and categorization. The extraction of important information from data related to brain activity. These characteristics aid in detecting the underlying patterns associated with epileptic convulsions. Machine learning classifiers, for example, are then used to evaluate and categorize the data based on these attributes. Both normal brain activity and epileptic seizures are possible. The study you referenced conducted a thorough review of the literature to find commonly used techniques for extracting characteristics and machine learning algorithms for effective diagnosis of normal versus convulsive brain activity. Data from reputable archives such as the Medical Devices and The IEEE Xplore, Wiley, Elsevier, the ACM, and Springer Publishers Link were analyzed for the study. Furthermore, the study created a classification of the most recent answers to this test, which includes a thorough examination of benchmark datasets and an unbiased assessment of classifier performance. Finally, the study showed gaps, problems, and opportunities in the area, providing insights that can be used to drive future research to improve epileptic Convulsion prediction and understanding.
 
@@ -27,39 +27,38 @@ Tremor is a common neural illness, if left untreated, can be dangerous. This dis
 Millions of individuals worldwide suffer with epilepsy, a neurological condition marked by recurring seizures. The unpredictable nature of seizures is a substantial obstacle to the management of epilepsy, as it makes it challenging for individuals to adopt preventative measures. The goal of this project is to create an early warning system that uses machine learning algorithms to forecast and notify users of approaching epileptic episodes.
 
 # Objective of Problem
-Seizure Prediction & Warning : ML algorithm can analyze data & other relevant information to predict when a seizure is likely to occur. This can provide individuals with epilepsy and their caregivers with a warning, allowing them to take precautionary measures, such as moving to a safer location or taking medication, to minimize the impact of the seizure.
+Seizure Prediction & Warning : ML algorithm can analyze data & other relevant information to predict when a seizure is likely to occur. This can provide individuals with epilepsy and their caregivers with a warning, allowing them to take precautionary measures, such as moving to a safer location or taking medication, to minimize the impact of the seizure.<br>
+Improved Quality of Life : Early prediction & warning can help individuals with epilepsy lead more normal lives. By avoiding seizures people with epilepsy can engage in daily activities,drive & work with greater independence.<br>
 
-Improved Quality of Life : Early prediction & warning can help individuals with epilepsy lead more normal lives. By avoiding seizures people with epilepsy can engage in daily activities,drive & work with greater independence.
-
-Reduced Hospitalizations : Early prediction can lead to reduced hospital admissions due to epilepsy-related seizures, which can lower healthcare costs and improve the overall health of patients.
+Reduced Hospitalizations : Early prediction can lead to reduced hospital admissions due to epilepsy-related seizures, which can lower healthcare costs and improve the overall health of patients.<br>
 
 Personalized Care : ML models can be tailored to individual patients, taking into account their specific seizure patterns and triggers. This enables personalized care plans and interventions, which can be more effective in managing epilepsy.
 
 # Input Data/Tools Used
-Data Input Format
-Patinent fills all the details.
+Data Input Format<br>
+Patinent fills all the details.<br>
 
-ML Model by using training & testing data give’s result.
+ML Model by using training & testing data give’s result.<br>
 
-Deplays patient affeted or not and give precautions & warning.
+Deplays patient affeted or not and give precautions & warning.<br>
 
-Tools Used
-Software Requirements: Pycharm for front-end and back-end development.
+Tools Used<br>
+Software Requirements: Pycharm for front-end and back-end development.<br>
 
-Hardware Requirements: Any Hardware as Mobile, Ipad, Laptop or Desktop
+Hardware Requirements: Any Hardware as Mobile, Ipad, Laptop or Desktop<br>
 
-Programming Requirements
-Front-End : HTML (To Deisgn Web Page)
+Programming Requirements<br>
+Front-End : HTML (To Deisgn Web Page)<br>
 
-Back-End : Python (Flask)
+Back-End : Python (Flask)<br>
 
 
 # Implementation
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/e53a2edb-5847-4987-b2ef-bf042b6e3668)
 
-Steps:
-1. Data Preparation:
-Import necessary libraries: pandas, numpy, and scikit-learn.
+Steps:<br>
+1. Data Preparation:<br>
+Import necessary libraries: pandas, numpy, and scikit-learn.<br>
 
 Load the dataset into a Pandas DataFrame.
 
@@ -96,12 +95,12 @@ Once satisfied with the model, deploy it in a suitable environment, considering 
 Random Forest has given us accuracy of 99.8% among all machine learning models.
 Random Forest is often a good choice for epilepsy prediction because it combines many decision trees, can handle messy data, and generalizes to new cases well. It's also helpful for identifying which factors are important in predicting epilepsy. However, its performance can vary based on the specific data and situation.
 
-Front End
-Case 1
+Front End<br>
+Case 1<br>
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/a798c925-a619-4c0e-9779-f654dd1eaf7c)
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/46169cee-a08d-4c6b-ab27-f266d5ea3f12)
 
-Case 2
+Case 2<br>
 ![e5](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/c6fccd7d-f2f2-40ee-b867-71c5c6b31a89)
 ![e6](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/dbccd670-422e-4f96-b588-79ad06a00e75)
 
@@ -127,7 +126,11 @@ Develop educational programs to raise awareness among healthcare professionals, 
 It provides an analysis of the publications considered for this study on epileptic seizure detection strategies. In addition to the feature selection techniques use in the research, an examine of ML classifiers were carried out, and the data sources were explicitly specified in the article. Various publicly available datasets were viewed and studied, and the bulk of the papers chosen used these datasets in their research. Wavelet transform techniques were primarily used for feature extraction, and signal decomposition was used to forecast an epileptic seizure. Those classifiers investigated were Support vector machine, R_Forest , KNN, and Artificial Neural Networks, and they generated best conclusions when combined. Methods for extracting features. Furthermore, it is suggested that in the future, the most appropriate predictive models be used. In order to perform quality research, models should be evaluated, as well as a suggestion on the lack of tremors in child and the creation of a different data for that type of tremors.
 
 # References
-[1]https://www.hindawi.com/journals/cmmm/2017/9074759/ [2]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481757/ [3]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9548615/ [4]https://link.springer.com/article/10.1007/s40747-021-00627-z [5]https://www.mdpi.com/2076-3417/12/14/7251
+[1]https://www.hindawi.com/journals/cmmm/2017/9074759/ 
+[2]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481757/ 
+[3]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9548615/ <br>
+[4]https://link.springer.com/article/10.1007/s40747-021-00627-z 
+[5]https://www.mdpi.com/2076-3417/12/14/7251<br>
 [6] Ramgopal, S., Thome-Souza, S., Jackson, M., Kadish, N. E., Sánchez Fernández, I., Klehm, J., ... & Loddenkemper, T. (2014). Seizure detection, seizure prediction, and closed-loop warning systems in epilepsy. Epilepsy & Behavior, 37, 291-307.
 [7] Subasi, A., & Kevric, J. (2007). EEG signal classification using PCA, ICA, LDA, and support vector machines. Expert Systems with Applications, 37(12), 8659-8666.
 [8] Orosco, L., Dua, S., Davis, D., & Kulemzina, I. (2017). Predicting epileptic seizures from intracranial EEG with kernel SVMs. Biomedical Signal Processing and Control, 35, 50-56.
@@ -136,18 +139,4 @@ It provides an analysis of the publications considered for this study on epilept
 [11] Mohd Ali, N., Besar, R., & Aziz, N. A. A. (2023). A case study of microarray breast cancer classification using machine learning algorithms with grid search cross validation. Bulletin of Electrical Engineering and Informatics, 12(2), 1047–1054. https://doi.org/10.11591/eei.v12i2.4838
 [12] Taneja, A., Rajamani, S. K., Shekhawat, D., Chanti, Y., Joshi, K., & Garg, A. (2023). A technique based on ensemble machine learning for the analysis of electronic nose signals. 2023 3rd International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE),1733–1737. https://doi.org/10.1109/ICACITE57410.2023.10182894
 
-# Problem Statement
-Epilepsy is a neurological disorder characterized by recurrent seizures, which can significantly impact the quality of life for affected individuals. Early prediction and intervention can help manage the condition more effectively, reducing the risk of severe seizures and their associated consequences. The goal of this project is to develop a machine learning model that can predict the onset of epileptic seizures in individuals with epilepsy, allowing for timely interventions and better disease management.
-
-# Data Collection
-By conducting survey we have collected data. Dataset link : https://github.com/shivanipoosala/Epilepsy_Prediction_dataset
-
-# Objective of Problem
-Seizure Prediction & Warning : ML algorithm can analyze data & other relevant information to predict when a seizure is likely to occur. This can provide individuals with epilepsy and their caregivers with a warning, allowing them to take precautionary measures, such as moving to a safer location or taking medication, to minimize the impact of the seizure.
-
-Improved Quality of Life : Early prediction & warning can help individuals with epilepsy lead more normal lives. By avoiding seizures people with epilepsy can engage in daily activities,drive & work with greater independence.
-
-Reduced Hospitalizations : Early prediction can lead to reduced hospital admissions due to epilepsy-related seizures, which can lower healthcare costs and improve the overall health of patients.
-
-Personalized Care : ML models can be tailored to individual patients, taking into account their specific seizure patterns and triggers. This enables personalized care plans and interventions, which can be more effective in managing epilepsy.
 
