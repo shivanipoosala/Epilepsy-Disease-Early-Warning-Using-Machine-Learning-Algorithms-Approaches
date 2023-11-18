@@ -5,6 +5,9 @@ Epilepsy may occur as a result of a genetic disorder or an acquired brain injury
 # Seizure
 A seizure is a sudden surge of electrical activity in the brain. A seizure usually affects how a person appears or acts for a short time. Many different things can occur during a seizure. Whatever the brain and body can do normally can also occur during a seizure.
 
+# Data Collection
+By conducting survey we have collected data. Dataset link : https://github.com/shivanipoosala/Epilepsy_Prediction_dataset
+
 # Table of Contents
 Abstract<br>
 Introduction<br>
@@ -88,20 +91,20 @@ Evaluate the performance of the model using metrics such as accuracy, precision,
 9. Deploy the Model:
 Once satisfied with the model, deploy it in a suitable environment, considering the ethical and legal implications of handling medical data.
 
-#Results and Analysis
+# Results and Analysis
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/3ece1531-170d-4b32-8c21-57fbc0c1919c)
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/3a11ab32-a95e-46d1-8e1e-abca7458c661)
 
 Random Forest has given us accuracy of 99.8% among all machine learning models.
 Random Forest is often a good choice for epilepsy prediction because it combines many decision trees, can handle messy data, and generalizes to new cases well. It's also helpful for identifying which factors are important in predicting epilepsy. However, its performance can vary based on the specific data and situation.
 
-Front End<br>
+# Front End
 Case 1<br>
-![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/a798c925-a619-4c0e-9779-f654dd1eaf7c)
+![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/a798c925-a619-4c0e-9779-f654dd1eaf7c)<br>
 ![image](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/46169cee-a08d-4c6b-ab27-f266d5ea3f12)
 
 Case 2<br>
-![e5](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/c6fccd7d-f2f2-40ee-b867-71c5c6b31a89)
+![e5](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/c6fccd7d-f2f2-40ee-b867-71c5c6b31a89)<br>
 ![e6](https://github.com/shivanipoosala/Epilepsy-Disease-Early-Warning-Using-Machine-Learning-Algorithms-Approaches/assets/93851816/dbccd670-422e-4f96-b588-79ad06a00e75)
 
 
@@ -131,12 +134,12 @@ It provides an analysis of the publications considered for this study on epilept
 [3]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9548615/ <br>
 [4]https://link.springer.com/article/10.1007/s40747-021-00627-z 
 [5]https://www.mdpi.com/2076-3417/12/14/7251<br>
-[6] Ramgopal, S., Thome-Souza, S., Jackson, M., Kadish, N. E., Sánchez Fernández, I., Klehm, J., ... & Loddenkemper, T. (2014). Seizure detection, seizure prediction, and closed-loop warning systems in epilepsy. Epilepsy & Behavior, 37, 291-307.
-[7] Subasi, A., & Kevric, J. (2007). EEG signal classification using PCA, ICA, LDA, and support vector machines. Expert Systems with Applications, 37(12), 8659-8666.
-[8] Orosco, L., Dua, S., Davis, D., & Kulemzina, I. (2017). Predicting epileptic seizures from intracranial EEG with kernel SVMs. Biomedical Signal Processing and Control, 35, 50-56.
-[9] Shoeb, A., Edwards, H., Connolly, J., Bourgeois, B., & Treves, S. T. (2004). Epileptic seizure prediction using hybrid feature selection over multiple intracranial EEG electrode contacts: a report of four patients. IEEE Transactions on Biomedical Engineering, 51(9), 1542-1552.
-[10] Raza, H., Gul, S., Paul, M., & Hussain, M. (2017). Epileptic seizures prediction using machine learning techniques. International Journal of Advanced Computer Science and Applications, 8(4), 32-38.
-[11] Mohd Ali, N., Besar, R., & Aziz, N. A. A. (2023). A case study of microarray breast cancer classification using machine learning algorithms with grid search cross validation. Bulletin of Electrical Engineering and Informatics, 12(2), 1047–1054. https://doi.org/10.11591/eei.v12i2.4838
-[12] Taneja, A., Rajamani, S. K., Shekhawat, D., Chanti, Y., Joshi, K., & Garg, A. (2023). A technique based on ensemble machine learning for the analysis of electronic nose signals. 2023 3rd International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE),1733–1737. https://doi.org/10.1109/ICACITE57410.2023.10182894
+[6] Ramgopal, S., Thome-Souza, S., Jackson, M., Kadish, N. E., Sánchez Fernández, I., Klehm, J., ... & Loddenkemper, T. (2014). Seizure detection, seizure prediction, and closed-loop warning systems in epilepsy. Epilepsy & Behavior, 37, 291-307.<br>
+[7] Subasi, A., & Kevric, J. (2007). EEG signal classification using PCA, ICA, LDA, and support vector machines. Expert Systems with Applications, 37(12), 8659-8666.<br>
+[8] Orosco, L., Dua, S., Davis, D., & Kulemzina, I. (2017). Predicting epileptic seizures from intracranial EEG with kernel SVMs. Biomedical Signal Processing and Control, 35, 50-56.<br>
+[9] Shoeb, A., Edwards, H., Connolly, J., Bourgeois, B., & Treves, S. T. (2004). Epileptic seizure prediction using hybrid feature selection over multiple intracranial EEG electrode contacts: a report of four patients. IEEE Transactions on Biomedical Engineering, 51(9), 1542-1552.<br>
+[10] Raza, H., Gul, S., Paul, M., & Hussain, M. (2017). Epileptic seizures prediction using machine learning techniques. International Journal of Advanced Computer Science and Applications, 8(4), 32-38.<br>
+[11] Mohd Ali, N., Besar, R., & Aziz, N. A. A. (2023). A case study of microarray breast cancer classification using machine learning algorithms with grid search cross validation. Bulletin of Electrical Engineering and Informatics, 12(2), 1047–1054. https://doi.org/10.11591/eei.v12i2.4838<br>
+[12] Taneja, A., Rajamani, S. K., Shekhawat, D., Chanti, Y., Joshi, K., & Garg, A. (2023). A technique based on ensemble machine learning for the analysis of electronic nose signals. 2023 3rd International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE),1733–1737. https://doi.org/10.1109/ICACITE57410.2023.10182894<br>
 
 
